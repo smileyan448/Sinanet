@@ -8,4 +8,4 @@ content.txt contains the interest distriubtion of each user in 10 forums.
 
 clusters.txt contains 10 clusters. Users in each cluser share the same class label, and belong to the same forum.
 
-If you use the data set, please cite the paper, Node Attributes Enhanced Community Detection in Complex Networks, by Caiyan Jia et al.
+If you use the data set, please cite the paper, Node Attributes Enhanced Community Detection in Complex Networks, by Caiyan Jia et al., Scientific Report, 2017
